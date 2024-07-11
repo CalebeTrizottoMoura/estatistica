@@ -13,26 +13,26 @@ Este programa Java permite ao usuário inserir uma lista de números, ordená-lo
 
 
 ## Saída
-- Sua lista terá quantos números? 5
-- 
-- Para separar a parte inteira da decimal, use o ponto (.)!
-- Exemplo: 5.985
-- 
-- Digite o 1º valor: 10.5
-- Digite o 2º valor: 2.3
-- Digite o 3º valor: 7.8
-- Digite o 4º valor: 15.2
-- Digite o 5º valor: 3.7
-- 
-- ======= RESULTADOS ESTATÍSTICOS =======
-- Lista ordenada: 2.30, 3.70, 7.80, 10.50 e 15.20.
-- Menor valor: 2.30
-- Maior valor: 15.20
-- Média: 7.90
-- Mediana: 7.80
-- Moda: conjunto sem valor modal.
-- Variância populacional: 21.81
-- Desvio padrão populacional: 4.67
+  Sua lista terá quantos números? 5
+  
+  Para separar a parte inteira da decimal, use o ponto (.)!
+  Exemplo: 5.985
+  
+  Digite o 1º valor: 10.5
+  Digite o 2º valor: 2.3
+  Digite o 3º valor: 7.8
+  Digite o 4º valor: 15.2
+  Digite o 5º valor: 3.7
+  
+  ======= RESULTADOS ESTATÍSTICOS =======
+  Lista ordenada: 2.30, 3.70, 7.80, 10.50 e 15.20.
+  Menor valor: 2.30
+  Maior valor: 15.20
+  Média: 7.90
+  Mediana: 7.80
+  Moda: conjunto sem valor modal.
+  Variância populacional: 21.81
+  Desvio padrão populacional: 4.67
 
 
 ## Funcionalidades
