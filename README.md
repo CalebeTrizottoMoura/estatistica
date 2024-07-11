@@ -36,7 +36,7 @@ Desvio padrao populacional: 4.67
 
 ## Funcionalidades
 - **Ordenação**: Utiliza o algoritmo de ordenação inserção (Insertion Sort) para ordenar a lista de números;
-- **Estatísticas**: Calcula e exibe a média, mediana, moda, variância e desvio padrão populacional dos números inseridos;
+- **Estatísticas**: Calcula e retorna a média, mediana, moda, variância e desvio padrão populacional dos números inseridos;
 - **Moda**: Identifica se há valores modais na lista e os exibe.
 
 
